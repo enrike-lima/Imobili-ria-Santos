@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    text-align: center;
+    font-family: Tahoma;
+}
+
+/* seção 1- logo */
+.secao-logo {
+    background-color: #afddfb;
+}
+.link {
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0;
+    border-bottom: 2px solid #1d1d1d;
+    padding-bottom: 15px;
+}
+.imagem-logo {
+    width: 300px;
+}
+
+.secao-logo li {
+    list-style-type: none;
+    display: inline;
+    font-size: 22px;
+    text-align: center;
+    padding: 5px 20px;
+}
+
+.secao-logo li a {
+    text-decoration: none;
+    color: rgb(1, 1, 46);
+}
+.secao-logo li a:hover {
+    color: rgb(0, 81, 255);
+}
+
+/* seção 2- Banner */
+.imagem-banner {
+    width: 60%;
+}
+.secao-banner {
+    margin: 20px auto;
+}
+
+/* seção 3- Apresentação */
+.secao-sobre {
+    margin: 40px auto;
+}
+.secao-sobre h1 {
+    color: #1d1d1d;
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+
+.secao-sobre h2 {
+    font-size: 32px;
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+    padding-top: 20px;
+}
+.imagem-imovel {
+    width: 700px;
+    margin: 50px auto;
+}
+.secao-sobre p {
+    font-size: 24px;
+    width: 60%;
+    margin: 0px auto;
+    line-height: 35px;
+}
+/* span com texto azul */
+.texto__azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+/* seção 4- Serviços */
+.secao-servicos {
+    background-color: rgb(17, 116, 155);
+    margin: 30px 0px;
+}
+
+.secao-servicos h3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: white;
+}
+.secao-servicos p{
+    color: white;
+    font-size: 24px;
+    width: 60%;
+    margin: 0px auto;
+    line-height: 35px;
+}
+/* span com texto amarelo */
+.texto__amarelo {
+    color: #fff81b;
+    font-weight: bold;
+}
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+    padding-bottom: 20px;
+}
+
+.item-lista-servicos {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff;
+}
+/* seção 5- Corretores */
+.secao-corretores h3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+
+.imagem-corretor {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.secao-corretores p {
+    font-size: 24px;
+    width: 60%;
+    margin: 0px auto;
+    line-height: 35px;
+    padding-bottom: 30px;
+}
+
+
+/* seção 6- Contatos */
+.secao-contato {
+    background-color: rgb(17, 116, 155);
+    margin: 30px 0px 0px 0px;
+}
+.secao-contato h3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: white;  
+
+}
+iframe{
+    width: 800px;
+    height: 500px;
+    padding-bottom: 40px;
+}
+.secao-contato p {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    width: 60%;
+    margin: 0px auto;
+    line-height: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.escritorios {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 0 auto ;
+    padding-bottom: 20px;
+
+}
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+/* Rodapé */
+footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer a{
+    color: #FF9505;
+    text-decoration: none;
+    
+}
