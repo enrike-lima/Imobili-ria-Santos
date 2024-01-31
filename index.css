@@ -4,6 +4,13 @@
     font-family: Tahoma;
 }
 
+/* largua max- min */
+.largura__pagina, iframe {
+    width: 100%;
+    min-width: 110px;
+
+}
+
 /* seção 1- logo */
 .secao-logo {
     background-color: #afddfb;
